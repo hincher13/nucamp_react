@@ -125,7 +125,7 @@ export const CAMPSITES = [
             {
                 id: 4,
                 rating: 4, 
-                text: " TEST The stars at night were magnificent!",
+                text: "The stars at night were magnificent!",
                 author: "Ann Dabramov",
                 date: "2018-07-23T19:44Z"
             }
