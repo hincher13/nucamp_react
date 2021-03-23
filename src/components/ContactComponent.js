@@ -30,7 +30,7 @@ class Contact extends Component {
                         email: false
                     }
                 };
-
+                this.toggleModal = this.toggleModal.bind(this);
                 this.handleSubmit = this.handleSubmit.bind(this);
             }
 
